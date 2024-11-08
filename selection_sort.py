@@ -1,4 +1,4 @@
-import random
+import random, time
 
 def selection_sort(nums):
     for i in range(len(nums)):
